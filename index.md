@@ -19,3 +19,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 $ html
 <h1> Hello <h1>
 ```
+### Adding a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
